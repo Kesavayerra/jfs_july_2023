@@ -11,7 +11,7 @@ public class BiggestOfThreeNumbers {
         int num2=sc.nextInt();
         System.out.println("Enter the num3 :");
         int num3=sc.nextInt();
-        int big;
+        int big = 0;
         if (num1>num2 && num1>num3){
             big=num1;
         } else if (num2>num3) {
