@@ -31,7 +31,7 @@ public class SwitchExample {
                 System.out.println("Sunday");
                 break;
             default:
-                System.out.println("Invalid Day number");
+                System.out.println("Invalid Day n umber");
 
         }
 
