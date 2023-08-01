@@ -49,8 +49,53 @@
     ### Final variable can be extended however cant be re-assign value
     ### Final class cant be inherited by other classed
     ### Final method can be extended however cant be overridden
+// What is Static Method
+
+//To call a method we are creating object and calling the method instead of that if we declare our method as static without instaniation we
+  we can directly access method with the class name of method we can call static methods as class method
 
 
+  Usage of Static key word in Java
+  Used in variables
+  static method -- static methods are methods we can access with class names
+  static block
+  static inner class
+  static import -- without using class name we can import static class so we can access methods directly
+   import static java.lang.Math.*
 
 
+// Four access specifiers in Java are Private, Public, Default, Protected
+// private > default > protected > public
+
+// ## Public is universally accessible
+
+// ## Private -- The private access modifier is specified using the keyword private.
+      The methods or data members declared as private are accessible only within the class
+      in which they are declared.
+      Any other class of the same package will not be able to access these members.
+      Top-level classes or interfaces can not be declared as private because
+       --private means “only visible within the enclosing class”.
+       --protected means “only visible within the enclosing class and any subclasses”
+
+
+// ## Protected -- The protected access modifier is specified using the keyword protected.
+      The methods or data members declared as protected are accessible within the same package
+      or subclasses in different packages.
+
+// ## Default -- When no access modifier is specified for a class, method, or data member –
+      It is said to be having the default access modifier by default. The data members, classes, or methods
+      that are not declared using any access modifiers i.e. having default access modifiers are accessible only
+      within the same package.
+
+// Method overloading means writing 2 or more methods with same name with different parameters in a class
+ // no of parameters
+ // order of parameters
+ // Type pf the parameters
+
+
+-- We have 2 types of methods
+   Instance Method - For accessing Instance method we need to create a object then only we can access
+   Class/Static Method - We can access directly with Class without creating object
+//Static Block --This code inside the static block is executed only once:
+    the first time the class is loaded into memory
 
