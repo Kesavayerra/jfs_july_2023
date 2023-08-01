@@ -1,0 +1,42 @@
+// Q What is command to file java program
+// A javac <filename.java>
+// Q command to run java program?
+// A java <filename>
+// A Q Data types in Java
+// 8 primitive data types byte,short,long,int,float, double,char,boolean
+// A reference datatypes
+// Q Diff between Primitive vs Reference Data types
+// A Primitive data types are pre defined data type where as reference data types are user defined
+
+// Q What is diff between / and % Operator
+
+// A Operator is used to divide two numbers where as % operator use to get remainder of the division of two numbers
+
+// Q What is Array
+
+// A Array is a collection of similar data types, It is reference data type. It is fixed length data structure
+// A Array index starts from 0 ends with n-1, n is size of array
+
+// Q Diff between Array and ArrayList
+// A Array is a fixed length data structure and array list is a dynamic length data structure
+
+// Q what is default package in Java
+// A java.lang package is default package in Java
+
+// Q What is diff between JDK, JRE and JVM
+// A JDK is a java development kit which contains tools to develop java programmes
+     JVM is a java virtual machine which is used to run for java programmes
+     JRE is a java run time environment which contains tools to run java programmes
+
+// Q What is the JVM
+// A JVM is a java virtual machine which is used to run for java programs, It is a part of JRE
+
+// Q What is the difference between == & equals()?
+// A Operator is used to compare two objects and equals() method used to compare two objects content.
+
+
+
+
+
+
+

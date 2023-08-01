@@ -1,0 +1,4 @@
+1001, Lenovo, Thinkpad, 56000
+1002,HP Slimbook, 45000
+1002, Apple MAC book, 120000
+1004, HP Pavilion , 65000
