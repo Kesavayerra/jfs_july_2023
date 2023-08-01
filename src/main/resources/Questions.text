@@ -34,7 +34,21 @@
 // Q What is the difference between == & equals()?
 // A Operator is used to compare two objects and equals() method used to compare two objects content.
 
+### Type Cating, Parsing, Boxing, UnBoxing
 
+    - Type Casting: Converting one data type to another data type
+    - Parsing: Converting String to primitive data type
+    - Boxing: Converting Primitive data type to Wrapper Class
+    - UnBoxing: Converting Wrapper class to Primitive data type
+
+// Collections will not allow primitive data type will only  allow wrapper datatype
+
+// Inheriting super class methods and changing functionality in sub class methods is called overriding
+
+// If Final key word is used then we can inherit the functionality how ever functionality cant be changed
+    ### Final variable can be extended however cant be re-assign value
+    ### Final class cant be inherited by other classed
+    ### Final method can be extended however cant be overridden
 
 
 
