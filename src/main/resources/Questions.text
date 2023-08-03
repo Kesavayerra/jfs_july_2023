@@ -99,3 +99,37 @@
 //Static Block --This code inside the static block is executed only once:
     the first time the class is loaded into memory
 
+ -- == equals is a operator
+ -- equals method is used to compare two objects
+
+ Diff between Drop Truncate Delete
+
+ Drop is to drop entire rows and table it will be give back free space
+ Truncate is to delete entire table rows we cant roll back
+ Delete all rows are with an condition we can roll back
+
+ Instance variable means declared inside class
+ Local variables is declared inside constructor or method argumentoss or within {}
+ Local Variables gets prference then instance variables
+
+ Constructor is a special method where name of constructor must be class name constructor will not have return type
+ Constructor cant be called explictly
+ CLass can have any any no of constructors with different parameters
+  If we have 2 or more constructors with different parameters we can call as Constructor Method Overloading
+
+ Q Difference between method and constructor
+
+  Method must have return type if absenece of return type we must mention void
+  Constructor name must be same as class name where as for method not required
+  Constructor can be called only once while creating a object where as method called any no of times using object reference
+  Constructor and Method overloading is possible
+  Constructor cant be inherited where as methods can be inherited
+
+  A class is a blueprint which consists of common methods and attributes
+  We can create object using new key word
+  An of instance of class is called as object
+  this key word can be referred to assign values to instance variables
+  this method can be used when we are calling same class constructor with different parameters
+  this() must be first argument in constructor
+
+For accessing Private variables in another class we can use getter methods

@@ -1,0 +1,13 @@
+Database are of two types
+Relational Data bases
+No SQL Data bases
+Relational DB data stored in form of tables and 1 table to other has relationship. We have any products like MYSQL, DB2
+Derby, Postgresql, Oracle, SQL Server
+No SQL DB will maintain data in form of Documents, Widely and popularly used is MongoDB
+
+In Relational DB we have below
+DDL--Data Definition language -- Create, alter, drop, truncate
+DML- Data Manipulation -- insert, update delete
+DQL -- Data Query -- select
+TCL -- Transaction Control -- commit, rollback, savepoint
+DCL -- Data control --grant, revoke
